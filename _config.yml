@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Scientia Nihil Praeponere"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Diego M Coelho"
+description              : "Nada dar mais valor do que o conhecimento"
+url                      : "https://diegomscoelho.github.io/blog"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "diegomscoelho"
 facebook:
   username               :
   app_id                 :
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Diego M Coelho"
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : "Bioinfo/Neuro"
+  location         : "Brasil"
+  email            : "diegomscoelho@neuro.ufrn.br"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "diegomscoelho"
   gitlab           :
   google_plus      :
   keybase          :
@@ -257,6 +257,7 @@ compress_html:
 
 
 # Defaults
+search: true
 defaults:
   # _posts
   - scope:
@@ -266,6 +267,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
