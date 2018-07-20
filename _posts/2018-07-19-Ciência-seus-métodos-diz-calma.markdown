@@ -35,9 +35,9 @@ Engenhoso, não?! - Com toda certeza! Mas aí vem o <i>quíprocó</i>, se modifi
 
 ## Dilema evolutivo
 
-A natureza é sábia nos seus tratos e métodos. Ela não elimina tudo que não se adapta (papo pra outro post!), ela seleciona seus indivíduos com a franqueza de uma criança e a importância de um déspota mal resolvido. Criar soluções <i>somáticas</i> (identidade) para problemas <i>germinativos</i> (herança) pode ser de um erro catastrófico, senão irreparável. A evolução sintética já provou o quão simples é perder o equilíbrio. Basta algumas gerações de acasalamento canino pra gerar um sem nome de doenças e problemas nunca antes vistos, agora faça isso de maneira silenciosa e com humanos. É exatamente como sua familia <i>falando groselhas</i> o quão errado é você ficar com um(a) primo(a). Logo, esse <i> serumaninho 2.0 </i> pode sair pior que a encomenda e pode levar algum tempo pra descobrirmos. Mas por que?
+A natureza é sábia nos seus tratos e métodos. Ela não elimina tudo que não se adapta (papo pra outro post!), ela seleciona seus indivíduos com a franqueza de uma criança e a importância de um déspota mal resolvido. Criar soluções <i>somáticas</i> (identidade) para problemas <i>germinativos</i> (herança) pode ser de um erro catastrófico, senão irreparável. A evolução sintética já provou o quão simples é perder o equilíbrio. Basta algumas gerações de acasalamento canino pra gerar um sem nome de doenças e problemas nunca antes vistos, agora faça isso de maneira silenciosa e com humanos. Lembre da sua familia <i>falando groselhas</i> do quão errado é você ficar com um(a) primo(a). Logo, esse <i> serumaninho 2.0 </i> pode sair pior que a encomenda e pode levar algum tempo pra descobrirmos. Mas por que?
 
-Nem tudo que se muda, se herda, mas o que herdamos não há de mudar tão cedo. Quando um indivíduo que não sobreviveria, milagrosamente, cresce e se reproduz, suas características vão para seus filhos. Sendo assim, como o sobrevivente, a criançada também precisará da mesma solução, e os filhos dos filhos, e por aí vaí. Veja a miopia, se um dia foi um trato raro, hoje é comum e dificilmente existe adultos que não precisem de um óculos.
+<b>Nem tudo que se muda, se herda, mas o que herdamos não há de mudar tão cedo.</b> Quando um indivíduo que não sobreviveria, milagrosamente, cresce e se reproduz, suas características vão para seus filhos. Sendo assim, como o sobrevivente, a criançada também precisará da mesma solução, e os filhos dos filhos, e por aí vaí. Veja a miopia, se um dia foi um trato raro, hoje é comum e dificilmente existe adultos que não precisem de um óculos.
 
 Obviamente, a idéia não é criar uma eugenia do séc. XXI onde vamos pilhar os miseráveis fetos/bebês/crianças "mal paridos", mas sim cuidarmos de não criar um futuro onde a terapia gênica se torne inevitável. Existem soluções atuais devéras mais "amigáveis", como: seleção de gametas (casar óvulo e espermatozóide sadios) ou simplesmente adotar uma criança. Já somos <i>metahumanos</i> tecnodependentes, o quanto "moléculodependentes" (Saúde!) desejamos ser?
 
@@ -47,4 +47,4 @@ Existiria a solução diretamente <i>germinativa</i>, mas aí meu caro, nem mesm
 
 {% include video id="QfHVhj-Kghk" provider="youtube" %}
 
-A idéia agora é seguir suave e tomar toda sorte de preucações. Tirando isso é reiterar o conselho do poeta: "Calma, calma, calma, calma, calmaaaaa ...".
+A idéia agora é seguir suave e tomar toda sorte de preucações. Tirando isso, é reiterar o conselho do poeta como mantra diário: "Calma, calma, calma, calma, calmaaaaa ...".
